@@ -1,3 +1,4 @@
 var student=["A","B","c",null,undefined,34];
 console.log(student[0]);
 console.log(student.length);
+console.log(student[1]);
